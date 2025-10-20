@@ -1,4 +1,9 @@
 # webprojectpractice
 
-1. [Brand Archetype](archetype.md)
-2. [Cialdini's Methods of Persuasion](cialdini.md)
+### Brandon A
+- Topic : [Brand Archetype](docs/archetype.md)
+- Competitor : [Nike](docs/competitors/nike/competitors.md)
+
+### Brandon B
+- Topic : [Cialdini's Methods of Persuasion](docs/cialdini.md)
+- Competitor : [Rebok](docs/competitors/rebok/competitors.md)
